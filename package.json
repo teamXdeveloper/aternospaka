@@ -16,3 +16,9 @@
   "author": "NipunX",
   "license": "MIT"
 }
+
+"scripts": {
+  "start": "node index.js"
+}
+
+
